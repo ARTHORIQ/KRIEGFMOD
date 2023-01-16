@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8f610584-daa1-401c-9751-9975eac05a4a}">
+		<property name="assetPath">
+			<value>Nihilism - HOYO-MiX - A Post Honkai Odyssey Soundtrack #1 - Honkai Impact 3rd OST.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>104.50791666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ee6628f-bde6-4df8-b34c-269903a9259f}</destination>
+		</relationship>
+	</object>
+</objects>

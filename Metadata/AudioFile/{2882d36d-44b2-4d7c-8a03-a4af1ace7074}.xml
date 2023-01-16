@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2882d36d-44b2-4d7c-8a03-a4af1ace7074}">
+		<property name="assetPath">
+			<value>Noitats - HOYO-MiX - A Post Honkai Odyssey Soundtrack #4 - Honkai Impact 3rd OST.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>66.768000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ee6628f-bde6-4df8-b34c-269903a9259f}</destination>
+		</relationship>
+	</object>
+</objects>
